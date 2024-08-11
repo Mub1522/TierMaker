@@ -126,7 +126,7 @@ body {
     flex-wrap: wrap;
     min-height: 100px;
 
-    &.drag-files{
+    &.drag-files {
         scale: 1.1;
         border: 1px dashed #666;
         background-color: #666;
